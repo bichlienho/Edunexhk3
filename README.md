@@ -24,7 +24,7 @@ Edunex Describe how to connect Python with MongoDB
 
 <h2 style="font-size: 24px; margin-top: 20px; color: #007BFF;">Resources</h2>
 <ul>
-    <li><strong>Documentations:</strong> <a href=" https://github.com/bichlienho/Group1-FlowerShop" style="color: #6f42c1;"><i class="fab fa-github"></i> GitHub Documentation</a></li>
+    <li><strong>Documentations:</strong> <a href=" https://github.com/bichlienho/Edunexhk3" style="color: #6f42c1;"><i class="fab fa-github"></i> GitHub Documentation</a></li>
     Link video demo  <a href="https://youtu.be/mBpdDW-worI" style="color: #c82333;"><i class="fab fa-youtube"></i> YouTube Introduction</a>
 </ul>
 
